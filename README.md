@@ -45,7 +45,7 @@ $ npm run test:coverage
 $ npm run build
 ```
 
-Output will be stored in `./dist` directory.
+Output will be stored in `./build` directory.
 
 ## Code Quality
 
