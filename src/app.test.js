@@ -24,7 +24,7 @@ describe('trackPbjsEvent', () => {
     expect(fetch).toHaveBeenCalledTimes(1);
   });
 
-  it('should return throw an error', async () => {
+  it('should throw an error', async () => {
     fetch.mockReject(() => Promise.reject('API is down!'));
 
     try {
