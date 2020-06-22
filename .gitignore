@@ -1,0 +1,50 @@
+# Built Files
+node_modules/
+build
+
+# Test Files
+test/app
+test/coverage
+gpt.html
+gpt-each-bidder3.html
+
+## Directory-based project format:
+.idea/
+# if you remove the above rule, at least ignore the following:
+
+# VS Code
+.vscode/
+
+# User-specific stuff:
+# .idea/workspace.xml
+# .idea/tasks.xml
+# .idea/dictionaries
+
+# Sensitive or high-churn files:
+# .idea/dataSources.ids
+# .idea/dataSources.xml
+# .idea/sqlDataSources.xml
+# .idea/dynamic.xml
+# .idea/uiDesigner.xml
+
+# Gradle:
+# .idea/gradle.xml
+# .idea/libraries
+
+# Mongo Explorer plugin:
+# .idea/mongoSettings.xml
+
+## File-based project format:
+*.ipr
+*.iws
+
+## Plugin-specific files:
+
+#zip files (for releases)
+*.zip
+
+# TypeScript typings
+typings/
+
+# MacOS system files
+.DS_Store
