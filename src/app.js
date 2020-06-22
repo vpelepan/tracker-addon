@@ -18,8 +18,5 @@ const rivraddon = {
   }
 };
 
-rivraddon.analytics.trackPbjsEvent({});
-rivraddon.analytics.enableAnalytics();
-
 window.rivraddon = rivraddon;
 export default rivraddon;
