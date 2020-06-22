@@ -11,7 +11,7 @@ Additional documentation can be found at [the Prebid homepage](http://prebid.org
 Install via [npm](https://www.npmjs.com/)
 
 ```bash
-$ git clone https://github.com/vpelepan/
+$ git clone https://github.com/vpelepan/event-tracker-addon.git
 $ cd /project/
 $ npm install
 ```
